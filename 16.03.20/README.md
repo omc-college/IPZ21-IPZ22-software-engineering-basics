@@ -1,0 +1,2 @@
+# AJAX (`XMLHttpRequest`), CORS,
+
